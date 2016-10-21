@@ -1,2 +1,2 @@
 Basic static site
-Indiez v0.1
+Indiez v1
