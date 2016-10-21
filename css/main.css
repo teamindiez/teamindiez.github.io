@@ -1,0 +1,417 @@
+body{
+  font-family: Raleway;
+  background-color: black;
+  color:#fff;
+  text-align: center;
+}
+@media screen (min-width: 992px){
+.col-md-6 {
+    padding: 0;
+    width: 50%;
+}
+
+}
+@media screen and (max-width: 500px) {
+     button.btnchat.third {
+    margin: 0 ;
+    width: 213px !important;
+    margin-top: 4% !important;
+    font-size: 110%;
+    border: 5px solid #37ff00;
+    outline: none;
+    height: 50px;
+    color: #37FF00;
+    background-color: transparent;
+    border-radius: 36px;
+    /* margin: 0 auto; */
+    /* float: none; */
+}
+      h2.disc2 {
+    margin-top: 27% !important ;
+    font-size: 18px !important;
+    margin-bottom: 5%;
+    font-weight: 500;
+}
+    .fa.fa-arrow-circle-o-down {
+    color: #FFFFFF;
+    width: 100%;
+    margin-top: 1% !important;
+    font-size: 46px !important;
+}
+  .btnchat.first {
+    margin: 0 !important;
+    width: 251px !important;
+        font-size: 120%;
+    border: 5px solid #37ff00;
+    outline: none;
+    height: 50px;
+    color: #37FF00;
+    background-color: transparent;
+    border-radius: 36px;
+    /* margin: 0 auto; */
+    /* float: none; */
+}
+
+i.fa.fa-arrow-circle-o-left {
+    font-size: 40px !important;
+    color: white;
+    position: absolute;
+    left: 3% !important;
+    top: 3% !important;
+}
+    .bodywrap1.ng-scope {
+        height: 100%;
+    width: 100% !important;
+    position: absolute;
+    background-size: cover;
+    /* height: 100%; */
+    background-image: url("/images/homebackgrynd.jpg");
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    right: 0;
+    /* width: 100%; */
+    background-position: 48% !important;
+}
+    .btnchat.second {
+    margin: 0 !important;
+    width: 200px !important;
+    margin-top: 4%!important;
+    font-size: 120%;
+    border: 5px solid #37ff00;
+    outline: none;
+    height: 50px;
+    color: #37FF00;
+    background-color: transparent;
+    border-radius: 36px;
+    /* margin: 0 auto; */
+    /* float: none; */
+}
+    .btnchat.first {
+    margin: 0 !important;
+    width: 200px !important;
+        font-size: 120%;
+    border: 5px solid #37ff00;
+    outline: none;
+    height: 50px;
+    color: #37FF00;
+    background-color: transparent;
+    border-radius: 36px;
+    /* margin: 0 auto; */
+    /* float: none; */
+}
+  h1.brand {
+    letter-spacing: 4px !important;
+    background: rgba(0, 0, 0, 0.78);
+    width: 90px !important;
+    height: 90px !important;
+    margin: 0 auto;
+    padding-top: 41px !important;
+    border-radius: 110px;
+    font-size: 13px !important;
+}
+.box1 {
+padding: 2%;
+    top: 0!important;
+    left: 0 !important;
+    height: 50% !important ; 
+    position: static !important ;
+    background: blueviolet;
+    width: 100%!important;
+}
+.box2 {
+padding: 2%;
+    top: 50%!important ;
+    right: 0;
+    height: 50% !important ;
+    position: static !important ;
+    background: blueviolet;
+    width: 100% !important;
+}
+}
+@media screen and (min-width: 780px) {
+   .fa.fa-arrow-circle-o-down {
+    color: #FFFFFF;
+    width: 100%;
+    margin-top: 1% !important;
+    font-size: 46px !important;
+}
+
+i.fa.fa-arrow-circle-o-left {
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    left: 3% !important;
+    top: 3% !important;
+}
+    .bodywrap1.ng-scope {
+    width: 100% !important;
+    position: absolute;
+    background-size: cover;
+    /* height: 100%; */
+    background-image: url("/images/homebackgrynd.jpg");
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    right: 0;
+    /* width: 100%; */
+    background-position: 48%!important;
+}
+    button.btnchat.second {
+    margin: 0 ;
+    width: 200px !important;
+    margin-top: 4% !important;
+    font-size: 120%;
+    border: 5px solid #37ff00;
+    outline: none;
+    height: 50px;
+    color: #37FF00;
+    background-color: transparent;
+    border-radius: 36px;
+    /* margin: 0 auto; */
+    /* float: none; */
+}
+    button.btnchat.third {
+    margin: 0 ;
+    width: 213px !important;
+    margin-top: 4% !important;
+    font-size: 120%;
+    border: 5px solid #37ff00;
+    outline: none;
+    height: 50px;
+    color: #37FF00;
+    background-color: transparent;
+    border-radius: 36px;
+    /* margin: 0 auto; */
+    /* float: none; */
+}
+  h1.brand {
+    letter-spacing: 4px ;
+    background: rgba(0, 0, 0, 0.78);
+    width: 90px ;
+    height: 90px ;
+    margin: 0 auto;
+    padding-top: 41px ;
+    border-radius: 110px;
+    font-size: 13px ;
+}
+  
+.col-md-6 {
+    padding: 0;
+    width: 50%;
+}
+.box1 {
+  padding: 2%;
+    top: 0;
+    left: 0;
+    height: 50%;
+    position: inherit ;
+    background: blueviolet;
+    width: 100% ;
+}
+.box2 {
+  padding: 2%;
+    top: 50% ;
+    right: 0;
+    height: 50% ;
+    position: inherit;
+    background: blueviolet;
+    width: 100% ;
+}
+}
+
+
+
+
+.box1 {
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+    height: 100%;
+    position: fixed;
+    background: url("/images/left1.png");
+    width: 50%;
+    background-size: cover;
+    background-position: 50%;
+}
+.box2 {
+     background-repeat: no-repeat;
+    top: 0;
+    right: 0;
+    height: 100%;
+    position: fixed;
+    background: url("/images/right1.png");
+    width: 50%;
+    background-size: cover;
+    background-position: 50%;
+}
+.btnchat {
+    font-size: 120%;
+  border: 5px solid #37ff00;
+    outline: none;
+    height:50px;
+    width: 200px;
+    color:#37FF00;
+    background-color:transparent;
+    border-radius: 36px;
+}
+button.btnchat:hover {
+  color: white;
+    background: transparent;
+    border: 2px solid white;
+}
+button.btnchat:active {
+  color:white;
+    background: #f5f5f5;
+    border: 2px solid white;
+    outline: none;
+}
+a {
+    outline: none;
+    color: #337ab7;
+    text-decoration: none;
+}
+.box1wrape {
+    margin-left: 25%;
+    margin-top: 32%;
+    width: 55%;
+}
+.box2wrape {
+    margin-left: 25%;
+    margin-top: 32%;
+    width: 55%;
+}
+h3.box1text {
+    font-weight: 100;
+    font-size: 18px;
+    width: 85%;
+    margin: 0 auto;
+    padding-bottom: 15%;
+}
+h3.box2text {
+    font-weight: 100;
+    font-size: 18px;
+    width: 85%;
+    margin: 0 auto;
+    padding-bottom: 15%;
+}
+
+
+h2.box1text {
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 1%;
+}
+h2.box2text {
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 1%;
+}
+h1.hire {
+    padding-bottom: 9%;
+}
+h1.join {
+    padding-bottom: 9%;
+}
+h1.brand {
+  font-size: 34px;
+  letter-spacing: 9px;
+    background: rgba(0, 0, 0, 0.78);
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    padding-top: 82px;
+    border-radius: 110px;
+}
+div#wrapper {
+    position: absolute;
+    z-index: 10;
+    left: 0;
+    right: 0;
+    top:10px;
+}
+.textwraper{
+    margin-top: 5%;
+
+}
+.header h1 {
+  color: #37FF00;
+  font-size: 60px;
+}
+.header {
+    margin-bottom: 7%;
+}
+h2.disc {
+    font-size: 35px;
+    line-height: 0.9;
+    font-weight: bold;
+}
+
+i.fa.fa-arrow-circle-o-down {
+  color: #FFFFFF;
+  width: 100%;
+    margin-top: 3%;
+    font-size: 60px;
+}
+button.btnchat.first{
+    margin-right: 7% ;
+
+}
+h2.disc2{
+    font-size: 20px;
+    margin-bottom: 5%;
+  font-weight: 500;
+}
+div#intercom-launcher{
+  display: none !important;
+}
+.bodywrap.ng-scope {
+    background-position: 42%;
+    background-size: cover;
+  height: 100%;
+  background-image: url("/images/propicmain.png");
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+.bodywrap2.ng-scope {
+    background-position: 38%;
+     background-size: cover;
+  height: 100%;
+  background-image: url("/images/tentimage.jpg");
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+.bodywrap1.ng-scope {
+    background-size: cover;
+  height: 100%;
+  background-image: url("/images/homebackgrynd.jpg");
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+.overlay {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.57);
+}
+
+
+
+i.fa.fa-arrow-circle-o-left {
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    left: 7%;
+    top: 10%;
+}
